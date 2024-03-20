@@ -6,6 +6,7 @@
         {
             var Tv = TVRemote.GetDevice();
             Tv.On();
+            Tv.Off();
 
         }
     }
